@@ -2,6 +2,7 @@
 #include <string>
 #include <queue>
 #include <vector>
+#include <cstdlib>
 #include "Dungeon.h"
 #include "Player.h"
 
